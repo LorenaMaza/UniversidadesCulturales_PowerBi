@@ -36,3 +36,11 @@ Sin una visualización clara, instituciones y estudiantes carecen de informació
 
 ## 🧠 Herramientas y tecnologías
 `Power BI` · `Power Query` · `Excel` · `Data Cleaning` · `Visual Analytics`
+
+---
+
+## 🔗 Repositorio
+👉 [Ver archivo Power BI (.pbix)] https://github.com/LorenaMaza/UniversidadesCulturales_PowerBi/blob/main/Carreras%20Culturales%20Universitarias%20-%20MAZA%20Lorena.pbix
+
+
+
