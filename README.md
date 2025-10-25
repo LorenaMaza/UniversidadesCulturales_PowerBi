@@ -3,7 +3,8 @@
 
 Analicé la distribución de carreras universitarias culturales en Argentina para identificar áreas con mayor concentración de oferta académica. Este análisis permite a instituciones educativas detectar oportunidades de diversificación y a estudiantes visualizar tendencias formativas en distintas provincias.
 
-**Impacto:** Facilita decisiones estratégicas para expansión institucional o elección vocacional.
+**Impacto:** Facilita las decisiones estrat´gicas para la expansión institucional o elección vocacional.
+
 ---
 
 ## 🧩 Problema
